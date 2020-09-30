@@ -1,0 +1,23 @@
+{
+  "name": "S4T",
+  "version": "1.0.0",
+  "description": "Scan4Transport (S4T) interactive demo page is at https://gs1.github.io/S4T/",
+  "main": "jsQR.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gs1/S4T.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gs1/S4T/issues"
+  },
+  "homepage": "https://github.com/gs1/S4T#readme",
+  "devDependencies": {
+    "json-server": "^0.16.1"
+  }
+}
